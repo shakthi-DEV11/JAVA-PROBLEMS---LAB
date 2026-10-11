@@ -291,9 +291,9 @@ This repository provides opportunities to practice:
 
 ## 🗺️ Development Roadmap
 
-- [x] Organize problems into category packages.
-- [x] Create a main console-menu entry point.
-- [x] Complete the category menu implementations.
+- [] Organize problems into category packages.
+- [] Create a main console-menu entry point.
+- [] Complete the category menu implementations.
 - [ ] Connect each problem to its corresponding menu option.
 - [ ] Improve input validation and error handling.
 - [ ] Add sample inputs and expected outputs.
